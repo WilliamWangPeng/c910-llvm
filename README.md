@@ -13,6 +13,17 @@
 | SYNC.IS | 同步清空广播指令 | :ballot_box_with_check: |
 | SYNC.S  | 同步广播指令     | :ballot_box_with_check: |
 
+
+**同步指令子集**
+
+| 指令    | 描述             | 状态                    |
+| ------- | ---------------- | ----------------------- |
+| SYNC    | 同步指令         | :ballot_box_with_check: |
+| SYNC.I  | 同步清空指令     | :ballot_box_with_check: |
+| SYNC.IS | 同步清空广播指令 | :ballot_box_with_check: |
+| SYNC.S  | 同步广播指令     | :ballot_box_with_check: |
+
+
 **算术运算指令子集**
 
 | 指令  | 描述                 | 状态                    |
