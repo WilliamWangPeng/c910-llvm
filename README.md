@@ -12,7 +12,7 @@
 | Cache 指令子集  | 同步清空指令     | :ballot_box_with_check: |
 | 算数运算指令子集 | 同步清空广播指令 | :ballot_box_with_check: |
 | 存储指令子集  | 同步广播指令     | :ballot_box_with_check: |  
-| 存储指令子集  | 同步广播指令     | :ballot_box_with_check: |
+| 位操作指令子集  | 同步广播指令     | :ballot_box_with_check: |
 
 
 **同步指令子集**
