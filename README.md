@@ -4,14 +4,15 @@
 
 ## (1) 以下按照不同指令子集扩展列出已实现llvm-mc汇编器支持的指令。
 
-**同步指令子集**
+                        
 
-| 扩展指令子集    | 子集描述             | 状态                    |
+| 扩展指令子集名称    | 子集描述             | 状态                    |
 | ------- | ---------------- | ----------------------- |
-| S多核同步指令子集    | 同步指令         | :ballot_box_with_check: |
-| SCache 指令子集I  | 同步清空指令     | :ballot_box_with_check: |
-| S算数运算指令子集S | 同步清空广播指令 | :ballot_box_with_check: |
-| S存储指令子集S  | 同步广播指令     | :ballot_box_with_check: |
+| 多核同步指令子集    | 同步指令         | :ballot_box_with_check: |
+| Cache 指令子集  | 同步清空指令     | :ballot_box_with_check: |
+| 算数运算指令子集 | 同步清空广播指令 | :ballot_box_with_check: |
+| 存储指令子集  | 同步广播指令     | :ballot_box_with_check: |  
+| 存储指令子集  | 同步广播指令     | :ballot_box_with_check: |
 
 
 **同步指令子集**
